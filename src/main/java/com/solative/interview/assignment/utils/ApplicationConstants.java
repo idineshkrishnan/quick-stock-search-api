@@ -23,4 +23,6 @@ public class ApplicationConstants {
     public static final String SERVER_ERROR = "Internal Server Error - Something went wrong.";
     public static final Integer SERVER_ERROR_CODE = 1001;
     public static final Integer INVALID_INPUT_ERROR_CODE = 1002;
+
+    public static final String APP_ALLOWED_ORIGIN = "http://localhost:3000";
 }
